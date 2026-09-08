@@ -1,7 +1,7 @@
-### EXP — INTERFACING A 16×2 LCD WITH ARDUINO USING AN I2C MODULE FOR SENSOR DATA DISPLAY
+## EXP — INTERFACING A 16×2 LCD WITH ARDUINO USING AN I2C MODULE FOR SENSOR DATA DISPLAY
 
 
-### AIM
+## AIM
 
 To interface a **16×2 LCD display with Arduino using an I2C module** and display sensor data on the LCD.
 
