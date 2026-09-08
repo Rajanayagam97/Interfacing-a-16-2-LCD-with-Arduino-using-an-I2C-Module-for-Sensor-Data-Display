@@ -72,6 +72,7 @@ void loop() {
 
 # Observation
 
+<img width="1423" height="1105" alt="image" src="https://github.com/user-attachments/assets/4e6e0d96-216f-41c4-a4d7-ca7d4e03cf5a" />
 
 # Result
 
